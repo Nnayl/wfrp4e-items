@@ -1,0 +1,21 @@
+{
+  "name": "wfrp4e-items",
+  "title": "WFRP4e - Objets",
+  "description": "Compilation des objets de Warhammer v4",
+  "author": "Nnayl",
+  "systems": ["wfrp4e"],
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "packs": [
+   {
+     "name": "equipements",
+     "label": "Equipements",
+     "path": "packs/equipements.db",
+     "entity": "Item",
+     "module": "wfrp4e-equipements",
+     "system": "wfrp4e",
+     "tags" : "items"
+   }
+ ]
+}
