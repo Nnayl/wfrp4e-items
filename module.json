@@ -17,5 +17,6 @@
      "system": "wfrp4e",
      "tags" : "items"
    }
- ]
+ ],
+ "manifest": "https://github.com/nnayl/wfrp4-items/releases/latest/download/module.json"
 }
