@@ -2,10 +2,10 @@
   "id": "wfrp4e-items",
   "title": "WFRP4e - Objets",
   "description": "Compilation des objets de Warhammer v4",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "authors": [
     {
-      "id": "Nnayl"
+      "name": "Nnayl"
     }
   ],
   "systems": ["wfrp4e"],
@@ -36,5 +36,5 @@
  ],
  "url": "https://github.com/Nnayl/wfrp4e-items",
  "manifest": "https://raw.githubusercontent.com/Nnayl/wfrp4e-items/master/module.json",
- "download": "https://github.com/Nnayl/wfrp4e-items/archive/refs/tags/1.0.10.zip"
+ "download": "https://github.com/Nnayl/wfrp4e-items/archive/refs/tags/1.0.11.zip"
 }
