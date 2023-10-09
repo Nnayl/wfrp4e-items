@@ -2,7 +2,7 @@
   "id": "wfrp4e-items",
   "title": "WFRP4e - Objets",
   "description": "Compilation des objets de Warhammer v4",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "authors": [
     {
       "name": "Nnayl"
@@ -11,10 +11,17 @@
   "systems": ["wfrp4e"],
   "compatibility" : {
     "minimum": 9,
-    "verified": "10",
-    "maximum": "10"
+    "verified": "11",
+    "maximum": "11"
   },
   "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
     "requires" : [
       {
         "id": "compendium-folders",
